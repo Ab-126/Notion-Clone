@@ -5,13 +5,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev# Discord Clone
+npm run dev# Notion Clone
 
-A feature-rich Discord clone built with Next.js 13, TypeScript, Tailwind CSS, ESLint, Clerk for authentication, React Hook Form, ShadCn-ui for UI components, Axios for HTTP requests, Socket.IO for real-time communication, Tanstack React Query for data fetching and caching, UploadThing for file uploads, LiveKit for audio and video calls, and Zustand for state management.
+A feature-rich Notion clone built with Next.js, Clerk for authentication, Tailwind CSS for styling, TypeScript for type safety, Convex, Edgestore, Blockstore, Sonner for data storage and retrieval, and React custom hooks to enhance the application.
 
 ## Overview
 
-This project is a Discord clone with various features such as group chat, one-to-one chat, group audio calls, group video calls, one-to-one video calls, creating servers, creating channels, and many more. It leverages modern technologies to provide a seamless and interactive communication experience.
+This project is a Notion clone designed to provide a comprehensive note-taking and collaboration platform. It utilizes modern web technologies to deliver a smooth and intuitive user experience.
 
 ## Features
 
